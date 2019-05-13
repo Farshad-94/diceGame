@@ -1,0 +1,92 @@
+
+.top-container {
+  background-color: #bb0029;
+  padding: 5px;
+}
+
+.middle-container {
+  background-color: black;
+  padding: 15% 15% 3% 15%;
+  text-align: center;
+}
+
+
+.button {
+  display: inline-block;
+  font-family: 'Lobster', cursive;
+  font-size:36px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  background-color: #f9f7f7;
+  border: none;
+  border-radius: 35px;
+  box-shadow: 0 9px #dbe2ef;
+  padding: 25px 35px;
+  margin: 5% 15% 0;
+}
+
+.button:hover {
+  background-color: #323232;
+  color: #fff;
+}
+
+.button:active {
+  background-color: #212121;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.dice {
+  display: inline-block;
+  margin: 0 auto;
+  width: 20%;
+  padding: 2%;
+
+}
+
+.profile-link {
+  color: #999;
+}
+
+body {
+  margin: 0;
+}
+
+footer {
+  margin-top: 15%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+font-family: 'Lobster', cursive;
+font-size: 5rem;
+color: #999;
+text-align: center;
+text-decoration: underline;
+}
+
+h2 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #bb0029;
+}
+
+h3 {
+  font-size: 2.5rem;
+  color: #bb0029;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 90%;
+}
+
+iframe {
+margin-left: 5%;
+}
